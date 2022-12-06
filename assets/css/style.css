@@ -54,6 +54,11 @@ h2 {
   margin: 20px;
 }
 
+#about .content img{
+  flex: var(--full-flex);
+  margin: 10px;
+}
+
 .title {
   flex: 0 0 20%;
   border-style: solid;
@@ -80,7 +85,8 @@ h2 {
   background-color: aquamarine;
   color: white;
   position: relative;
-  bottom: 20px;
+  bottom: 40px;
+  font-size: 30px;
 }
 
 .content #main-project img{
@@ -91,6 +97,15 @@ h2 {
 
 .content .sub-project {
   flex: 0 0 40%;
+}
+
+.content .sub-project::after {
+  content: 'Placeholder Project';
+  background-color: aquamarine;
+  color: white;
+  position: relative;
+  bottom: 40px;
+  font-size: 30px;
 }
 
 .content .sub-project img {
