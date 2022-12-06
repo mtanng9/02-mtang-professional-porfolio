@@ -35,12 +35,25 @@ body {
   flex: 0 0 100%;
 }
 
-#contact {
+.card {
   display: flex;
-  /* Defines how to distribute the empty space between child elements */
-  justify-content: space-between;
-  padding: 60px;
-  color: #fff;
+  flex-flow: wrap;
+  margin: 20px;
+}
+
+.title {
+  flex: 0 0 20%;
+  border-style: solid;
+  border-color: darkgreen;
+  border: 5px;
+}
+
+.content {
+  flex: 0 0 80%;
+  border-style: solid;
+  border-color: darkgreen;
+  border-width: 0px 0px 0px 3px;
+  padding: 5px;
 }
 
 #contact div ul {
