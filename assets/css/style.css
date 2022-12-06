@@ -1,3 +1,7 @@
+:root {
+  --full-flex: 0 0 100%;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -37,11 +41,11 @@ h2 {
 
 #banner {
   display: flex;
-  flex: 0 0 100%;
+  flex: var(--full-flex);
 }
 
 #banner img{
-  flex: 0 0 100%;
+  flex: var(--full-flex);
 }
 
 .card {
@@ -68,11 +72,19 @@ h2 {
 }
 
 .content #main-project {
-  flex: 0 0 100%;
+  flex: var(--full-flex);
+}
+
+.content #main-project::after {
+  content: 'Web Agency Website';
+  background-color: aquamarine;
+  color: white;
+  position: relative;
+  bottom: 20px;
 }
 
 .content #main-project img{
-  flex: 0 0 100%;
+  flex: var(--full-flex);
   max-width: 100%;
   object-fit: cover;
 }
