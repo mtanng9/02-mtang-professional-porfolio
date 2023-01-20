@@ -8,6 +8,7 @@ FIRST PROJECT:
 My first project is a website that incoporates 3 APIS: Youtube, Wikipedia, and Dictionary. This website allows user to search a word and have a definition, wikipedia articles and videos be returned. The motivation for the development of this website is for it to serve as a useful tool for English learners or those who want to build more vocabularies. 
 
 Below is the revelant links to my first project. 
+
 Deployed Websites:
 https://rapperthedabber.github.io/Daring-Dinoursars/
 
