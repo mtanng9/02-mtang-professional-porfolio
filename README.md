@@ -12,8 +12,22 @@ Below is the revelant links to my first project.
 Deployed Websites:
 https://rapperthedabber.github.io/Daring-Dinoursars/
 
-GitHub repo
+GitHub repo:
 https://github.com/rapperthedabber/Daring-Dinoursars
+
+
+
+SECOND PROJECT:
+Making group travel easier. Travel Together lets a group of distantly located members choose the flights that will arrive at a similar time in order to reduce airport waiting. Get to creating, instead.
+
+Below is the revelant links to my second project. 
+
+Deployed Application via Heroku:
+https://enigmatic-inlet-20421.herokuapp.com/
+
+Github repo:
+https://github.com/morgankn/Project-Two
+
 
 
 ![webpage screenshot](https://github.com/mtanng9/02-mtang-professional-porfolio/blob/main/assets/images/website-screenshot.png?raw=true)
