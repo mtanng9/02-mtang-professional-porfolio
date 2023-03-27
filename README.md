@@ -18,7 +18,7 @@ https://github.com/rapperthedabber/Daring-Dinoursars
 
 
 SECOND PROJECT:
-Making group travel easier. Travel Together lets a group of distantly located members choose the flights that will arrive at a similar time in order to reduce airport waiting. Get to creating, instead.
+Do you know the feeling of traveling with a group of friends or colleagues from different cities and having to endure the worst part of it all - the long wait at the airport? Imagine being able to plan your flights around each other's arrival times to reduce waiting time and maximize the time spent together. This is exactly what Travel Easier was designed for. Travel Easier is a collaborative group project that enables a group of friends or members who are located far apart to select flights that arrive at similar times, thereby minimizing airport waiting time. With Travel Easier, your travel experience will be smoother, more efficient, and more enjoyable.
 
 Below is the revelant links to my second project. 
 
