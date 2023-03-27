@@ -5,7 +5,7 @@
 This is a web application is the portfolio to show off all of My My Tang's work during the course of the UPenn Fullstack Web Development curiculum. 
 
 FIRST PROJECT:
-My first project is a website that incoporates 3 APIS: Youtube, Wikipedia, and Dictionary. This website allows user to search a word and have a definition, wikipedia articles and videos be returned. The motivation for the development of this website is for it to serve as a useful tool for English learners or those who want to build more vocabularies. 
+The Daring Dinosaurs Dictionary is a front-end development website that seamlessly integrates three powerful APIs: YouTube, Wikipedia, and Dictionary. By leveraging the power of these APIs, the website enables users to effortlessly search for a word and receive a wealth of information, including its definition, related Wikipedia articles, and informative videos. The development of this website was motivated by a desire to create a valuable tool for English learners and anyone looking to expand their vocabulary. With the Daring Dinosaurs Dictionary, learning new words and concepts has never been easier or more engaging.
 
 Below is the revelant links to my first project. 
 
